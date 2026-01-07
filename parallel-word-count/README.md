@@ -18,3 +18,18 @@ improvements achieved through parallelism and distributed execution.
 - data/: Input text files
 - docs/: Design documents and diagrams
 
+
+## How to Run
+
+### Serial Word Count
+```bash
+python serial_word_count.py
+
+- Parallel Word Count
+python parallel_word_count.py
+
+- Distributed Word Count
+python distributed_word_count.py
+
+- Graphical User Interface (Optional)
+python ui.py
